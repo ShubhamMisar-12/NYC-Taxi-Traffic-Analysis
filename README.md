@@ -1,11 +1,6 @@
 # NYC-Taxi-Traffic-Analysis
 
-## Kaggle Notebook
-
-```bash
-https://www.kaggle.com/code/shubhammisar/nyc-taxi-time-series-lstm
-
-```
+[Kaggle Notebook](https://www.kaggle.com/code/shubhammisar/nyc-taxi-time-series-lstm)
 
 This project utilizes LSTM (Long Short-Term Memory) to forecast the demand for NYC taxi rides using the July 2014 dataset.
 
